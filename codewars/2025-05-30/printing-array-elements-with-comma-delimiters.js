@@ -1,3 +1,5 @@
+// Array Problem, 8 difficulty
+
 /* Input: Array of elements     //Shift + Option + A
 
 ["h","o","l","a"]
