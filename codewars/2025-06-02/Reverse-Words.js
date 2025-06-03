@@ -10,7 +10,7 @@ Examples
 
 function reverseStr(str) {
     // splits the string into words
-    const words = .split(' ')
+    const words = str.split(' ')
     // split and reverse the letters in the words --- map goes through each word
     const reverseWords = words.map(word => word.split('').reverse().join(''));
     // rejoin the words into a string
