@@ -11,6 +11,8 @@ function valueCheck(a, x) {
     return a.includes(x);
 }
 
+// const valueCheck = (a, x) => a.includes(x); 
+
 // Test cases
 console.log(valueCheck([66, 101], 66)); // true
 console.log(valueCheck([101, 45, 75, 105, 99, 107], 107)); // true
